@@ -113,6 +113,21 @@ Stop with: "stop pirate" or "normal mode"
 
 > [!IMPORTANT]
 > Pirate speech makes responses more verbose. Will increase token usage. Only for fun!
+> 
+## Install
+npx skills add aetomack/pirate
+npx skills supports 40+ agents — Claude, Copilot, Cursor, etx.
+For specific agents:
+
+npx skills add aetomack/pirate -a cursor
+npx skills add aetomack/pirate -a github-copilot
+npx skills add aetomack/pirate -a cline
+npx skills add aetomack/pirate -a windsurf
+npx skills add aetomack/pirate -a codex
+
+Claude Code plugin system:
+claude plugin marketplace add aetomack/pirate
+claude plugin install pirate@pirate
 
 ## License
 
