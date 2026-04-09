@@ -55,7 +55,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that makes
 </table>
 
 
-**:**
+**Intensity Levels:**
 
 <table>
 <tr>
