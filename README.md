@@ -34,7 +34,7 @@
 </td>
 <td width="50%">
 
-### Real Swashbucklin' Buccanneer Claude ✅ 
+### Real Swashbucklin' Buccanneer ✅ 
 
 > "Yer React component be re-render'n because ye be creatin' a new object refer 'ta each render cycle, we'll keel-haul ye! When ye pass an inline object as a prop, React's shallow comparison sees it as a different object every time — firin' the cannons o' re-renders! Skewer't in useMemo t' memoize the object. Savvy?"
 
@@ -50,7 +50,7 @@
 </td>
 <td>
 
-### High Seas Caesar Claude ✅ 
+### High Seas Caesar ✅ 
 
 > Ah, so ye want t' understand database connection poolin'. Splice the mainbrace! I see. Well, listen up! Yo-ho-ho! Connection poolin' reuses open connections instead o' creatin' new ones per request. Ya see, ye scallywag, it avoids repeat'd handshake over'ead."
 
