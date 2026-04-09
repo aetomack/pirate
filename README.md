@@ -66,23 +66,26 @@
 <tr>
 <td width="25%">
 
-#### Power Monkey (Lite)
+#### Powder Monkey (Lite)
 
 > "Yer component re-rendered because ye made a new object refer 'ta each render. Put ye component in a useMemo."
+> use with /pirate lite
 
 </td>
 <td width="25%">
 
-#### Scallywag (Normal)
+#### Scallywag (Full) -- Default
 
 > "Yer component be re-render'n because ye made a new object refer 'ta each render. Skewer't in useMemo."
+> use with /pirate full
 
 </td>
 <td width="25%">
 
-#### Blackbeard (Max)
+#### Blackbeard (Ultra)
 
 > "Yer component be re-render'n, ya scallywag, because ye made a new object refer t' each and every render upon these cursed seas! Yaaarr! Skewer't in useMemo, and batten down the hatches it don't happen again! Savvy?"
+> use with /pirate ultra
 
 </td>
 </tr>
@@ -109,14 +112,14 @@ Stop with: "stop pirate" or "normal mode"
 
 | Level | Trigger | Effect |
 |-------|---------|------------|
-| **Powder Monkey** | `/caveman lite` | Drop filler, keep grammar. Professional but no fluff |
-| **Scallywag** | `/caveman full` | Default caveman. Drop articles, fragments, full grunt |
-| **Blackbeard** | `/caveman ultra` | Maximum compression. Telegraphic. Abbreviate everything |
+| **Powder Monkey** | `/pirate lite` | Pirate in rehab |
+| **Scallywag** | `/pirate full` | Default pirate experience. Standard scallywag.|
+| **Blackbeard** | `/pirate ultra` | Most pirate-like |
 
 > [!IMPORTANT]
 > Pirate speech makes responses more verbose. Will increase token usage. Only for fun!
 > inspired by [caveman](https://github.com/JuliusBrussee/caveman)
-> 
+
 ## Install
 npx skills add aetomack/pirate
 npx skills supports 40+ agents — Claude, Copilot, Cursor, etx.
