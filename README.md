@@ -52,10 +52,7 @@
 
 ### High Seas Caesar ✅ 
 
-> Aye, matey! Recursion be a function callin' itself, we'll keel-haul ye!             
-                                                                                                    
-  Break a big problem into smaller versions o' the same problem. Each call works on a smaller chunk 
-  til ye hit the base case. Then it all unwinds back up the stack.                                  
+> Aye, matey! Recursion be a function callin' itself, we'll keel-haul ye! Break a big problem into smaller versions o' the same problem. Each call works on a smaller chunk til ye hit the base case. Then it all unwinds back up the stack.                                  
          
 
 </td>
