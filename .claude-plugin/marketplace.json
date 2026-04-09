@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pirate",
+  "description": "Confusing and indirect communication. Get yelled at by a pirate.",
+  "owner": {
+    "name": "Alex Tomack",
+    "url": "https://github.com/aetomack"
+  },
+  "plugins": [
+    {
+      "name": "pirate",
+      "description": "Talk like a pirate.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
