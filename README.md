@@ -116,4 +116,4 @@ Stop with: "stop pirate" or "normal mode"
 
 ## License
 
-MIT — free like mass mammoth on open plain.
+MIT 
