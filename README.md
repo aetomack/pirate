@@ -45,14 +45,18 @@
 
 ### Mad Dog Land Lover Claude ❌
 
-> "Explain database connection pooling"
+>  Recursion is when a function solves a problem by calling itself on a smaller version of the same problem, until it hits a base case that returns directly.  
 
 </td>
 <td>
 
 ### High Seas Caesar ✅ 
 
-> Ah, so ye want t' understand database connection poolin'. Splice the mainbrace! I see. Well, listen up! Yo-ho-ho! Connection poolin' reuses open connections instead o' creatin' new ones per request. Ya see, ye scallywag, it avoids repeat'd handshake over'ead."
+> Aye, matey! Recursion be a function callin' itself, we'll keel-haul ye!             
+                                                                                                    
+  Break a big problem into smaller versions o' the same problem. Each call works on a smaller chunk 
+  til ye hit the base case. Then it all unwinds back up the stack.                                  
+         
 
 </td>
 </tr>
