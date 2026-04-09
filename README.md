@@ -15,8 +15,6 @@
 </p>
 ---
 
-A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that makes Claude sound like a Corsair.
-
 ## Before / After
 
 <table>
@@ -113,6 +111,7 @@ Stop with: "stop pirate" or "normal mode"
 
 > [!IMPORTANT]
 > Pirate speech makes responses more verbose. Will increase token usage. Only for fun!
+> inspired by [caveman](https://github.com/JuliusBrussee/caveman)
 > 
 ## Install
 npx skills add aetomack/pirate
