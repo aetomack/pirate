@@ -29,14 +29,14 @@
 
 ### Landlubber Claude ❌
 
-> "The reason your React component is re-rendering is likely because you're creating a new object reference on each render cycle. When you pass an inline object as a prop, React's shallow comparison sees it as a different object every time, which triggers a re-render. I'd recommend using useMemo to memoize the object."
+> The reason your React component is re-rendering is likely because you're creating a new object reference on each render cycle. When you pass an inline object as a prop, React's shallow comparison sees it as a different object every time, which triggers a re-render. I'd recommend using useMemo to memoize the object.
 
 </td>
 <td width="50%">
 
 ### Real Swashbucklin' Buccanneer ✅ 
 
-> "Yer React component be re-render'n because ye be creatin' a new object refer 'ta each render cycle, we'll keel-haul ye! When ye pass an inline object as a prop, React's shallow comparison sees it as a different object every time — firin' the cannons o' re-renders! Skewer't in useMemo t' memoize the object. Savvy?"
+> Yer React component be re-render'n because ye be creatin' a new object refer 'ta each render cycle, we'll keel-haul ye! When ye pass an inline object as a prop, React's shallow comparison sees it as a different object every time — firin' the cannons o' re-renders! Skewer't in useMemo t' memoize the object. Savvy?
 
 </td>
 </tr>
@@ -109,19 +109,20 @@ Stop with: "stop pirate" or "normal mode"
 > inspired by [caveman](https://github.com/JuliusBrussee/caveman)
 
 ## Install
-npx skills add aetomack/pirate
-npx skills supports 40+ agents — Claude, Copilot, Cursor, etx.
-For specific agents:
+**Node**
+- npx skills add aetomack/pirate
+- npx skills supports 40+ agents — Claude, Copilot, Cursor, etx.
+  
+**For specific agents:**
+- npx skills add aetomack/pirate -a cursor
+- npx skills add aetomack/pirate -a github-copilot
+- npx skills add aetomack/pirate -a cline
+- npx skills add aetomack/pirate -a windsurf
+- npx skills add aetomack/pirate -a codex
 
-npx skills add aetomack/pirate -a cursor
-npx skills add aetomack/pirate -a github-copilot
-npx skills add aetomack/pirate -a cline
-npx skills add aetomack/pirate -a windsurf
-npx skills add aetomack/pirate -a codex
-
-Claude Code plugin system:
-claude plugin marketplace add aetomack/pirate
-claude plugin install pirate@pirate
+**Claude Code plugin system:**
+- claude plugin marketplace add aetomack/pirate
+- claude plugin install pirate@pirate
 
 ## License
 
