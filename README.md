@@ -60,7 +60,7 @@
 </table>
 
 
-**Intensity Levels:**
+## Intensity Levels:
 
 <table>
 <tr>
@@ -91,10 +91,6 @@
 </tr>
 </table>
 
-- **Slower, but more thoughtful response** — Pirates be known fer their big hearts.  Shiver me timbers!  They love t' talk as much as they love t' plunder!
-- **Simulate a voyage** — Well, if ye have e'er dreamed o' th' rockin' o' a ship at night and th' sounds o' th' waves, this be th' plugin fer ye.
-- **Fun** — As pirates, we understand seafarin' can shiver yer timbers.  Aarrr!  Aarrr! Krakens, mermaids, sirens and th' like.  Sometimes what ye need be yer Cap'n t' batton down th' hatches and talk ye through a problem.
-
 ## Usage
 
 Trigger with:
@@ -107,14 +103,6 @@ Trigger with:
 - "set sail"
 
 Stop with: "stop pirate" or "normal mode"
-
-### Levels
-
-| Level | Trigger | Effect |
-|-------|---------|------------|
-| **Powder Monkey** | `/pirate lite` | Pirate in rehab |
-| **Scallywag** | `/pirate full` | Default pirate experience. Standard scallywag.|
-| **Blackbeard** | `/pirate ultra` | Most pirate-like |
 
 > [!IMPORTANT]
 > Pirate speech makes responses more verbose. Will increase token usage. Only for fun!
