@@ -1,2 +1,8 @@
 {
+  "name": "pirate",
+  "description": "Confusing and indirect communication. Get yelled at by a pirate.",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/aetomack"
+  }
 }
