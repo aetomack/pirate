@@ -14,6 +14,11 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/aetomack/pirate?style=flat" alt="License"></a>
 </p>
 ---
+## Overview
+
+- **More thoughtful response** — Pirates be known fer their big hearts.  Shiver me timbers!  They love t' talk as much as they love t' plunder!
+- **Simulate a voyage** — Well, if ye have e'er dreamed o' th' rockin' o' a ship at night and th' sounds o' th' waves, this be th' plugin fer ye.
+- **Fun** — As pirates, we understand seafarin' can shiver yer timbers.  Aarrr!  Aarrr! Krakens, mermaids, sirens and th' like.  Sometimes what ye need be yer Cap'n t' batton down th' hatches and talk ye through a problem.
 
 ## Before / After
 
@@ -30,7 +35,7 @@
 
 ### Real Swashbucklin' Buccanneer Claude ✅ 
 
-> "Yer component be re-render'n because ye made a new object refer 'ta each render. Skewer't in `useMemo`."
+> "Yer React component be re-render'n because ye be creatin' a new object refer 'ta each render cycle, we'll keel-haul ye! When ye pass an inline object as a prop, React's shallow comparison sees it as a different object every time — firin' the cannons o' re-renders! Skewer't in useMemo t' memoize the object. Savvy?"
 
 </td>
 </tr>
@@ -75,12 +80,9 @@
 
 #### Blackbeard (Max)
 
-> "Avast, ye! Yer component be re-render'n, ya simpleton, because ye made a new object refer 'ta each render. Yaaarr! Skewer't in `useMemo'. Savvy?"
+> "Yer component be re-render'n, ya scallywag, because ye made a new object refer t' each and every render upon these cursed seas! Yaaarr! Skewer't in useMemo, and batten down the hatches it don't happen again! Savvy?"
 
 </td>
-<td width="25%">
-
-
 </tr>
 </table>
 
