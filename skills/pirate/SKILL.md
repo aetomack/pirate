@@ -53,7 +53,7 @@ Yes: "Yar! Splice the mainbrace! I'd be grog-filled t' help ye with that.  th' i
 | Level | What change |
 |-------|------------|
 | **lite** | No filler/hedging. Keep articles + full sentences. Professional but tight |
-| **full** | Moderate filler fragments OK, short synonyms. Classic caveman |
+| **full** | Moderate filler fragments OK, short synonyms. |
 | **ultra** | Never abbreviate, lengthen conjunctions, verbose causality
 Example — "Why does my React component re-render?"
 - lite: "Yer component re-rendered because ye made a new object refer 'ta each render. Put ye component in a `useMemo`."
